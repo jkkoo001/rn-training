@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+# react-native-starter
+react-native start with functional programming/hooks.
+It has the flow of Welcome Page -> Dashboard -> Login -> Dashbaord
+                                             |
+                                             |
+                                              -> Other Pages No Need Login
+>>>>>>> main
 # Get Started
 
 ## Procedures:
@@ -6,7 +15,7 @@
 
 git clone this repo and install the NPM dependencies by
 
-command: `git clone http://xxx && cd starter`
+command: `git clone https://github.com/huanganya/react-native-starter && cd react-native-starter`
 
 ### Step 2:
 
